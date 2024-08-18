@@ -1,7 +1,7 @@
                                         🎮 **JUEGOS ARCADE EN PYTHON** 🎮
 **CREADORES**:
 Yaiza Matesanz,
-Paula Paula Martinez Cantero,
+Paula Martínez Cantero,
 Maria Remedios Diz Iglesias,
 
 Este repositorio contiene tres divertidos juegos arcade clásicos desarrollados en Python:
