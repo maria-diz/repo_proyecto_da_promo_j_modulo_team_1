@@ -1,6 +1,4 @@
-
-
-                                🎮 **JUEGOS ARCADE EN PYTHON** 🎮
+                    🎮 **JUEGOS ARCADE EN PYTHON** 🎮
 
 **DESARROLLADORAS** 
 
