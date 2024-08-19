@@ -30,14 +30,14 @@ Ejecuta el juego.
                                       
                                           JUEGO PIEDRA-PAPEL-TIJERA✊📄✂️
 
-Este es un sencillo juego de "Piedra, Papel, Tijera" creado en Python. El jugador compite contra la computadora, que selecciona aleatoriamente una opción. El juego sigue las reglas tradicionales, donde:
+Éste es un juego creado en Python. El jugador compite contra la computadora, que selecciona aleatoriamente una opción. El juego sigue las reglas tradicionales, donde:
 
 - Piedra aplasta a Tijera.
 - Tijera corta a Papel.
 - Papel cubre a Piedra.
 
 **Cómo jugar** 🕹️
-Elección del jugador: El jugador ingresa una de las opciones: "piedra", "papel" o "tijera".
+Elección del/la jugador/a: Ingresa una de las opciones: "piedra", "papel" o "tijera".
 Elección de la computadora: La computadora elige aleatoriamente una de las tres opciones.
 Comparación y resultado: El programa comparará las dos elecciones y mostrará quién ha ganado la ronda o si hubo empate.
 Repetir o salir: Al final de cada ronda, el jugador puede decidir si quiere jugar otra vez o salir del juego.
@@ -54,10 +54,10 @@ Solo tendrá un máximo de 6 INTENTOS para poder adivinarla, ya que cada vez que
                                   JUEGO PREGUNTAS Y RESPUESTAS GEOGRAFIA 🌍
   
 Este es un sencillo juego de preguntas y respuestas sobre geografía desarrollado en Python. 
-El objetivo del juego es poner a prueba los conocimientos del jugador sobre el mundo, desafiándolo a responder correctamente a una serie de preguntas relacionadas con geografía.
+El objetivo del juego es poner a prueba los conocimientos del/la jugador/a sobre el mundo, desafiándolo a responder correctamente a una serie de preguntas relacionadas con geografía.
 
 **Cómo jugar** 🗺️
-El jugador deberá contestar preguntas sobre geografía hasta que haya respondido correctamente a 5 preguntas o haya fallado 3 veces. 
+El/la jugador/a deberá contestar preguntas sobre geografía hasta que haya respondido correctamente a 5 preguntas o haya fallado 3 veces. 
 Cada vez que se falla, se resta un intento, y el juego continúa hasta que se cumpla una de las condiciones de victoria o derrota.
 
 
