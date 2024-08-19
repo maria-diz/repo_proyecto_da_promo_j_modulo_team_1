@@ -2,11 +2,12 @@
 
                                 🎮 **JUEGOS ARCADE EN PYTHON** 🎮
 
-**DESARROLLADORAS**
+**DESARROLLADORAS** 
 
-Paula Martínez Cantero
-Maria Remedios Diz Iglesias
+María Remedios Diz Iglesias  
+Paula Martínez Castro  
 Yaiza Matesanz Avilés
+
 
 Este repositorio contiene tres juegos arcade desarrollados en Python:
 
