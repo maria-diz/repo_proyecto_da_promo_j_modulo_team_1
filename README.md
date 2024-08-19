@@ -1,25 +1,27 @@
-                                        🎮 **JUEGOS ARCADE EN PYTHON** 🎮
-**CREADORES**:
-Yaiza Matesanz,
-Paula Martínez Cantero,
-Maria Remedios Diz Iglesias,
 
-Este repositorio contiene tres divertidos juegos arcade clásicos desarrollados en Python:
 
-- **Piedra, Papel, Tijera** : Un clásico juego de manos en el que eliges entre piedra, papel o tijera para vencer a tu oponente.
-- **Ahorcado**:Intenta adivinar la palabra secreta antes de que se complete la figura del ahorcado.
-- **Preguntas y respuestas**: Un juego de preguntas sobre geografía para poner a prueba el conocimiento del jugador.
+                                🎮 **JUEGOS ARCADE EN PYTHON** 🎮
+
+**DESARROLLADORAS**
+
+Paula Martínez Cantero
+Maria Remedios Diz Iglesias
+Yaiza Matesanz Avilés
+
+Este repositorio contiene tres juegos arcade desarrollados en Python:
+
+1. **Piedra, papel, tijera**
+Un clásico juego de manos en el que eliges entre piedra, papel o tijera para vencer a tu oponente.
+
+2. **Ahorcado**
+Un juego de adivinanzas en el que tienes que descubrir la palabra secreta antes de que se complete la figura del ahorcado.
+
+3. **Preguntas y respuestas**
+Un juego de preguntas sobre geografía para poner a prueba el conocimiento del jugador.
 
 Cada uno de estos juegos es interactivo y desafía tus habilidades de lógica y deducción, perfecto para pasar un rato entretenido mientras practicas tus habilidades de programación.
 
 Cada juego está diseñado para ser simple de ejecutar y fácil de entender, con instrucciones claras para el jugador y una estructura básica que puedes usar como punto de partida para tus propios proyectos de programación.
-
-⚙️ **Requisitos** ⚙️
-Para ejecutar estos juegos, necesitas tener Python 3.x instalado en tu sistema.
-
-Instalación de Python:
-Descarga Python si no lo tienes instalado.
-Verifica que el comando python esté disponible en tu terminal o consola.
 
 **Cómo ejecutar el juego elegido** ▶️
 Clona este repositorio o descarga los siguientes archivos del juego deseado: juego_piedra_papel_tijera.ipynb, juego_ahorcado.ipynb, juego_preguntas_respuestas.ipynb.
