@@ -3,7 +3,7 @@
 **DESARROLLADORAS** 
 
 María Remedios Diz Iglesias  
-Paula Martínez Castro  
+Paula Martínez Cantero
 Yaiza Matesanz Avilés
 
 
