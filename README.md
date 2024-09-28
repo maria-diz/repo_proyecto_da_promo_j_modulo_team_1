@@ -1,9 +1,9 @@
                     🎮 **JUEGOS ARCADE EN PYTHON** 🎮
 
-**DESARROLLADORAS** 
+**DESARROLLADORAS**  
 
 María Remedios Diz Iglesias  
-Paula Martínez Cantero
+Paula Martínez Cantero  
 Yaiza Matesanz Avilés
 
 
